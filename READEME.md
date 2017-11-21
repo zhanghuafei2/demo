@@ -1,2 +1,2 @@
 #README
-Hello, this repo is to learn git.
+Hello, this repo is to learn git and markdown.
