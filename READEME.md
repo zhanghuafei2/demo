@@ -1,5 +1,7 @@
-#README
+README
+=
 Hello, this repo is to learn git and markdown.
+
 
 My Profile
 
